@@ -3,6 +3,8 @@ public class Projeto {
 		System.out.print("Olá Mundo");
 		System.out.print("Edição 1");
 		System.out.print("Edição 2");
+		System.out.print("Edição 2");
+
 	}
 
 }
